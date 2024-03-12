@@ -20,6 +20,6 @@ Validate your Email
 3. pip install -r requirement.txt
 4. Run the Flask Application: 
 5. flask run
-6. Open your web browser and go to http://localhost:5000 to access the application.
+6. Open your web browser and go to http://54.206.95.152:5000/ to access the application.
 7. Start testing your email and any input strings using the provided interface.
 					
