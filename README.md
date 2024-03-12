@@ -23,6 +23,5 @@ Validate your Email
 6. Open your web browser and go to http://54.206.95.152:5000/ to access the application.
 7. Start testing your email and any input strings using the provided interface.
 # Connect with me
-![linkedin]((https://www.linkedin.com/in/avinashrodda/)
+Linkedin: https://www.linkedin.com/in/avinashrodda
 
-![linkedin](https://github.com/RoddaAvinash/Regex_Matching_Web_App_Development_Project/assets/155214451/bded2d73-c5b4-450c-b0ee-2eb2d4ae0072)
